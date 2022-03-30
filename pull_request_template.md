@@ -1,11 +1,11 @@
 ### What does it do? Why?
 
-Mandatory. Please add a short description of what this `pull request` does.
-
-### QA
-
-Optionnal. `npm run storybook` and `npm run test`
+👉🏻 &nbsp;Please add a short description of what this `pull request` does.
 
 ### Good To Know
 
-Mandatory. Link to the asana ticket. Dont start a `pull request` without a ticket.
+👉🏻 &nbsp;Link to the asana ticket. Dont start a `pull request` without a ticket.
+
+### QA
+
+👉🏻 &nbsp;`npm run storybook` and `npm run test`
