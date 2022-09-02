@@ -12,10 +12,10 @@
 
 ### Review
 
-- [] All GHA are success - except Asana
-- [] There is no new harcoded text, all has to be set with lingui
-- [] Use react-ui when possible
-- [] Costly calculations use `useMemo`
-- [] The PR does not add svg, png, jpg but use streamline instead
-- [] The PR does not add `eslint-disable` directives
-- [] The Asana Changelog field has been set
+- [ ] All GHA are success - except Asana
+- [ ] There is no new harcoded text, all has to be set with lingui
+- [ ] Use react-ui when possible
+- [ ] Costly calculations use `useMemo`
+- [ ] The PR does not add svg, png, jpg but use streamline instead
+- [ ] The PR does not add `eslint-disable` directives
+- [ ] The Asana Changelog field has been set
