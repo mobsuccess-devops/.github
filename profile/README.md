@@ -2,10 +2,7 @@
 
 Our customer are leaders, and we're proud they trust us on their road to success.
 
-Learn more about our what we do:
-- [Widely](https://www.wide.ly/) scales down the distance between retailers and their customers;
-- [Story](https://www.storysuccess.fr/) creates stories that vibrate your brand and create engagement;
-- [Farly](https://www.farly.io) swirls customers to your apps and brings them to the top.
+Learn more about our what we do: https://www.mobsuccess.com
 
 ### On recrute !
 
