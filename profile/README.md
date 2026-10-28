@@ -2,7 +2,7 @@
 
 Our customer are leaders, and we're proud they trust us on their road to success.
 
-Learn more about our what we do: https://www.mobsuccess.com
+Learn more about what we do: https://www.mobsuccess.com
 
 ### On recrute !
 
